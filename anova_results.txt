@@ -1,0 +1,60 @@
+Protein Functional Group ANOVA Analysis
+
+Bonferroni-adjusted alpha threshold: 0.00625
+
+Feature Tested: hydrophobic_ratio
+F-statistic: 165.28964
+P-value: 1.3777e-65
+Result: Statistically significant
+The p-value (1.3777e-65) is less than the adjusted alpha threshold (0.00625).
+We reject the null hypothesis and conclude that mean hydrophobic_ratio values differ across at least one protein functional group.
+
+Feature Tested: charged_pos_ratio
+F-statistic: 319.09069
+P-value: 3.7290e-116
+Result: Statistically significant
+The p-value (3.7290e-116) is less than the adjusted alpha threshold (0.00625).
+We reject the null hypothesis and conclude that mean charged_pos_ratio values differ across at least one protein functional group.
+
+Feature Tested: charged_neg_ratio
+F-statistic: 395.67706
+P-value: 1.1230e-138
+Result: Statistically significant
+The p-value (1.1230e-138) is less than the adjusted alpha threshold (0.00625).
+We reject the null hypothesis and conclude that mean charged_neg_ratio values differ across at least one protein functional group.
+
+Feature Tested: charge_balance
+F-statistic: 13.74751
+P-value: 1.2126e-06
+Result: Statistically significant
+The p-value (1.2126e-06) is less than the adjusted alpha threshold (0.00625).
+We reject the null hypothesis and conclude that mean charge_balance values differ across at least one protein functional group.
+
+Feature Tested: polar_ratio
+F-statistic: 160.91002
+P-value: 5.0223e-64
+Result: Statistically significant
+The p-value (5.0223e-64) is less than the adjusted alpha threshold (0.00625).
+We reject the null hypothesis and conclude that mean polar_ratio values differ across at least one protein functional group.
+
+Feature Tested: aromatic_ratio
+F-statistic: 98.31021
+P-value: 7.6680e-41
+Result: Statistically significant
+The p-value (7.6680e-41) is less than the adjusted alpha threshold (0.00625).
+We reject the null hypothesis and conclude that mean aromatic_ratio values differ across at least one protein functional group.
+
+Feature Tested: Length
+F-statistic: 23.03762
+P-value: 1.3989e-10
+Result: Statistically significant
+The p-value (1.3989e-10) is less than the adjusted alpha threshold (0.00625).
+We reject the null hypothesis and conclude that mean Length values differ across at least one protein functional group.
+
+Feature Tested: Mass
+F-statistic: 22.82589
+P-value: 1.7179e-10
+Result: Statistically significant
+The p-value (1.7179e-10) is less than the adjusted alpha threshold (0.00625).
+We reject the null hypothesis and conclude that mean Mass values differ across at least one protein functional group.
+
